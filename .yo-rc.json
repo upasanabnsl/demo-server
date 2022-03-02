@@ -1,0 +1,21 @@
+{
+  "generator-mocha": {
+    "ui": "tdd",
+    "rjs": false
+  },
+  "generator-gradle-plugin": {
+    "githubUser": "upasanabnsl",
+    "authorName": "Upasana Bansal",
+    "authorEmail": "upasanabnsl@gmail.com",
+    "projectName": "gradle",
+    "projectGroup": "org.uscs.com",
+    "projectPackage": "org.uscs.com.gradle",
+    "projectVersion": "0.1.0",
+    "projectDesc": "",
+    "pluginPortalDesc": "",
+    "pluginPortalTags": "",
+    "centralPublish": false,
+    "pluginPortalUseCustomGroup": false,
+    "usedGeneratorVersion": "2.0.1"
+  }
+}
